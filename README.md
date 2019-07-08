@@ -11,9 +11,9 @@ When a bank- or lottery check is printed, the amount is usually printed with bot
    ``` npm run test:coverage  ```
 ### To test the program
 Open the terminal and use the function like down below: 
-```
-coverage(2) // two
-coverage(22) // twenty two
-coverage(222) // two hundred twenty two
-coverage(2222) // tho thousand two hundred twenty two
+```js
+converter(2); // two
+converter(22); // twenty two
+converter(222); // two hundred twenty two
+converter(2222); // tho thousand two hundred twenty two
 ```
